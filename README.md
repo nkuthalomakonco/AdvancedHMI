@@ -19,3 +19,4 @@ AdvancedHMI comes with several examples and sample code files that allow you to 
 
 Additionally, these templates can be used as snippets or examples for generating your script. The library package also features comprehensive documentation, a step-by-step introduction to working with this component in Visual Studio.
 https://www.advancedhmi.com/
+https://github.com/TemperedEnterprises/AdvancedHMI/blob/master/AdvancedHMI/UsageAndLicense.txt
