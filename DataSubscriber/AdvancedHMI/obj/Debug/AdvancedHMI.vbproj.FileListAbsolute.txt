@@ -1,0 +1,54 @@
+C:\Users\jason\Desktop\AdvancedHMI\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcComRcw.dll
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.xml
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojResolveAssemblyReference.cache
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.Cache
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\Users\noman.ghia\Documents\Visual Studio 2015\Projects\Robotics\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcComRcw.dll
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.xml
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.AssemblyReference.cache
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\Users\nkuthalo.makonco\Documents\vb\AdvancedHMI DataSubscriber\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
